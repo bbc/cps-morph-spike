@@ -1,0 +1,9 @@
+lib/
+node_modules/
+public/
+public/*.css
+public/*.js
+reports/
+bower_components/
+.DS_Store
+.bundle-dependencies.json
