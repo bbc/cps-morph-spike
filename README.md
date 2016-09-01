@@ -11,7 +11,7 @@ a manager for cps topics
 
 | Key   |      Values      | Description |
 |----------|-------------|-------------|
-| hello | `'world` | Text to display |
+| tag | ed9d1ef3-eded-4f81-b158-be49cfc1ea8f | tag guid |
 
 ## Usage
 
