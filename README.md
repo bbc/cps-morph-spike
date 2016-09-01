@@ -13,17 +13,9 @@ a manager for cps topics
 |----------|-------------|-------------|
 | tag | ed9d1ef3-eded-4f81-b158-be49cfc1ea8f | tag guid |
 
-## Usage
+## Example
 
-```js
-var component = require('my-component');
-
-var props ={
-    hello: 'world'
-};
-
-<Component {...props}/>
-```
+/data/bbc-morph-cps-topic-manager/tag/ed9d1ef3-eded-4f81-b158-be49cfc1ea8f
 
 ## Dependencies
 
